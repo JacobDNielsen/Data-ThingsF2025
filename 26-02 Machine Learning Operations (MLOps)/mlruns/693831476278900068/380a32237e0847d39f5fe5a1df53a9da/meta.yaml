@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/380a32237e0847d39f5fe5a1df53a9da/artifacts
+end_time: 1740665078575
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: 380a32237e0847d39f5fe5a1df53a9da
+run_name: blushing-mare-722
+run_uuid: 380a32237e0847d39f5fe5a1df53a9da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740665078522
+status: 4
+tags: []
+user_id: Jacob

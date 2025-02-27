@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/005a717928284cbb93bc5264ec82c907/artifacts
+end_time: 1740670983126
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 005a717928284cbb93bc5264ec82c907
+run_name: magnificent-duck-823
+run_uuid: 005a717928284cbb93bc5264ec82c907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670978145
+status: 3
+tags: []
+user_id: Jacob

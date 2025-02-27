@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/d94a215ef1ad424aaed62df561fa7ce3/artifacts
+end_time: 1740671275332
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: d94a215ef1ad424aaed62df561fa7ce3
+run_name: carefree-stoat-259
+run_uuid: d94a215ef1ad424aaed62df561fa7ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740671269816
+status: 3
+tags: []
+user_id: Jacob

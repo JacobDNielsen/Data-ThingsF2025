@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/913eba5e1d8b4abfbf0407c2b7899ef2/artifacts
+end_time: 1740666437640
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: 913eba5e1d8b4abfbf0407c2b7899ef2
+run_name: omniscient-goose-941
+run_uuid: 913eba5e1d8b4abfbf0407c2b7899ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740666393421
+status: 3
+tags: []
+user_id: Jacob

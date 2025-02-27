@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/1fa375e6885b42e2b2b8174db368afbd/artifacts
+end_time: 1740671280848
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 1fa375e6885b42e2b2b8174db368afbd
+run_name: skillful-ox-138
+run_uuid: 1fa375e6885b42e2b2b8174db368afbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740671275383
+status: 3
+tags: []
+user_id: Jacob

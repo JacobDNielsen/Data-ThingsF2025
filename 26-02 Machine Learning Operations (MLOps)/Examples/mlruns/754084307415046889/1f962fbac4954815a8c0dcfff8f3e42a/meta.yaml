@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/Examples/mlruns/754084307415046889/1f962fbac4954815a8c0dcfff8f3e42a/artifacts
+end_time: 1740574912216
+entry_point_name: ''
+experiment_id: '754084307415046889'
+lifecycle_stage: active
+run_id: 1f962fbac4954815a8c0dcfff8f3e42a
+run_name: bemused-gnu-974
+run_uuid: 1f962fbac4954815a8c0dcfff8f3e42a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740574907343
+status: 3
+tags: []
+user_id: Jacob

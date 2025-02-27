@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/c1050f5568144c11b839b222ef374431/artifacts
+end_time: 1740670897295
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: c1050f5568144c11b839b222ef374431
+run_name: intelligent-moth-737
+run_uuid: c1050f5568144c11b839b222ef374431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670891765
+status: 3
+tags: []
+user_id: Jacob

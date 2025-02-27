@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/290ac3f757f04932b79ba8d668120725/artifacts
+end_time: 1740667558643
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: 290ac3f757f04932b79ba8d668120725
+run_name: glamorous-crane-6
+run_uuid: 290ac3f757f04932b79ba8d668120725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740667558451
+status: 3
+tags: []
+user_id: Jacob

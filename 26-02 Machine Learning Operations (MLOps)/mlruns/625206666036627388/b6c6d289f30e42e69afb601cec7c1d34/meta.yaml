@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/b6c6d289f30e42e69afb601cec7c1d34/artifacts
+end_time: 1740669731088
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: b6c6d289f30e42e69afb601cec7c1d34
+run_name: aged-squid-761
+run_uuid: b6c6d289f30e42e69afb601cec7c1d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669725236
+status: 3
+tags: []
+user_id: Jacob

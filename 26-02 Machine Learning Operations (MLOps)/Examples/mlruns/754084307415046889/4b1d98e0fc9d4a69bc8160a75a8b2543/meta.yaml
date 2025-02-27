@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/Examples/mlruns/754084307415046889/4b1d98e0fc9d4a69bc8160a75a8b2543/artifacts
+end_time: 1740557858402
+entry_point_name: ''
+experiment_id: '754084307415046889'
+lifecycle_stage: active
+run_id: 4b1d98e0fc9d4a69bc8160a75a8b2543
+run_name: nebulous-worm-945
+run_uuid: 4b1d98e0fc9d4a69bc8160a75a8b2543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740557853338
+status: 3
+tags: []
+user_id: Jacob

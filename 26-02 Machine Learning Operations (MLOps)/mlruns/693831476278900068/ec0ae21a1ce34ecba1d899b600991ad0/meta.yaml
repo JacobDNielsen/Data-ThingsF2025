@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/ec0ae21a1ce34ecba1d899b600991ad0/artifacts
+end_time: 1740667459558
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: ec0ae21a1ce34ecba1d899b600991ad0
+run_name: spiffy-shoat-565
+run_uuid: ec0ae21a1ce34ecba1d899b600991ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740667459259
+status: 3
+tags: []
+user_id: Jacob

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/cfb5751192594aa3ad00357a36e9c3bd/artifacts
+end_time: 1740666443868
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: cfb5751192594aa3ad00357a36e9c3bd
+run_name: unruly-panda-635
+run_uuid: cfb5751192594aa3ad00357a36e9c3bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740666443809
+status: 4
+tags: []
+user_id: Jacob

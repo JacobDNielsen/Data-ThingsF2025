@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388
+creation_time: 1740667986035
+experiment_id: '625206666036627388'
+last_update_time: 1740667986035
+lifecycle_stage: active
+name: model_tracking_experiment

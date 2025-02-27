@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/eb1b0b85d7a149e0ad86c4c8fcc8d944/artifacts
+end_time: 1740670253188
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: eb1b0b85d7a149e0ad86c4c8fcc8d944
+run_name: 'LinearRegression_features-3_params-{''fit_intercept'': False}_split-0.9-0.1'
+run_uuid: eb1b0b85d7a149e0ad86c4c8fcc8d944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670247884
+status: 3
+tags: []
+user_id: Jacob

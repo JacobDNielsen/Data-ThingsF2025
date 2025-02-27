@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/8c5aa11c41a844dfbc64a10f9da66877/artifacts
+end_time: 1740664671559
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: 8c5aa11c41a844dfbc64a10f9da66877
+run_name: nebulous-crow-183
+run_uuid: 8c5aa11c41a844dfbc64a10f9da66877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740664671503
+status: 4
+tags: []
+user_id: Jacob

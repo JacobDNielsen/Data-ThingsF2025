@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/2c28a3e8e2524d6fbcb6962b5c765c19/artifacts
+end_time: 1740670147408
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 2c28a3e8e2524d6fbcb6962b5c765c19
+run_name: 'RandomForest_features-3_params-{''n_estimators'': 200, ''max_depth'': 7,
+  ''n_jobs'': -1}_split-0.8-0.2'
+run_uuid: 2c28a3e8e2524d6fbcb6962b5c765c19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670136102
+status: 3
+tags: []
+user_id: Jacob

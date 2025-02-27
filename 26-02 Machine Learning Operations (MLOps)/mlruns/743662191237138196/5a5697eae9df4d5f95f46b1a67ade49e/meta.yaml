@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/743662191237138196/5a5697eae9df4d5f95f46b1a67ade49e/artifacts
+end_time: 1740669228302
+entry_point_name: ''
+experiment_id: '743662191237138196'
+lifecycle_stage: active
+run_id: 5a5697eae9df4d5f95f46b1a67ade49e
+run_name: omniscient-gnat-923
+run_uuid: 5a5697eae9df4d5f95f46b1a67ade49e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669228231
+status: 4
+tags: []
+user_id: Jacob

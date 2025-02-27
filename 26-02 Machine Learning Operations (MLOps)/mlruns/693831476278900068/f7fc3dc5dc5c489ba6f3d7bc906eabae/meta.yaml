@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/f7fc3dc5dc5c489ba6f3d7bc906eabae/artifacts
+end_time: 1740664332759
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: f7fc3dc5dc5c489ba6f3d7bc906eabae
+run_name: adorable-swan-467
+run_uuid: f7fc3dc5dc5c489ba6f3d7bc906eabae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740664326203
+status: 3
+tags: []
+user_id: Jacob

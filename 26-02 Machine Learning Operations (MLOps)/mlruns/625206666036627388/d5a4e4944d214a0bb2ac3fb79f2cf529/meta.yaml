@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/d5a4e4944d214a0bb2ac3fb79f2cf529/artifacts
+end_time: 1740671134912
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: d5a4e4944d214a0bb2ac3fb79f2cf529
+run_name: rogue-dog-855
+run_uuid: d5a4e4944d214a0bb2ac3fb79f2cf529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740671125579
+status: 3
+tags: []
+user_id: Jacob

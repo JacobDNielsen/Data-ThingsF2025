@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/f9ff83b65272488f93a8737bc150047c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: f9ff83b65272488f93a8737bc150047c
+run_name: tasteful-bee-102
+run_uuid: f9ff83b65272488f93a8737bc150047c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669016708
+status: 1
+tags: []
+user_id: Jacob

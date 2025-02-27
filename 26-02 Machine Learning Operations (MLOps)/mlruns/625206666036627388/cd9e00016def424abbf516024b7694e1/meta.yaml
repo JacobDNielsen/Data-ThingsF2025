@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/cd9e00016def424abbf516024b7694e1/artifacts
+end_time: 1740671166971
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: cd9e00016def424abbf516024b7694e1
+run_name: blushing-worm-231
+run_uuid: cd9e00016def424abbf516024b7694e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740671156051
+status: 3
+tags: []
+user_id: Jacob

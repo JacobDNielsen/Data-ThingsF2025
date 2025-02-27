@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/f0121d1fe18c4b8891f0ffdf328532a4/artifacts
+end_time: 1740669122689
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: f0121d1fe18c4b8891f0ffdf328532a4
+run_name: bittersweet-fly-188
+run_uuid: f0121d1fe18c4b8891f0ffdf328532a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669122303
+status: 3
+tags: []
+user_id: Jacob

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/a96df034c3d54b4893889ff3aaa43739/artifacts
+end_time: 1740667558089
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: a96df034c3d54b4893889ff3aaa43739
+run_name: kindly-loon-233
+run_uuid: a96df034c3d54b4893889ff3aaa43739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740667557959
+status: 3
+tags: []
+user_id: Jacob

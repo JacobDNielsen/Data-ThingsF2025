@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/Examples/mlruns/754084307415046889/fd8630b02dbe426da7e7f1e392e6e4a3/artifacts
+end_time: 1740557574285
+entry_point_name: ''
+experiment_id: '754084307415046889'
+lifecycle_stage: active
+run_id: fd8630b02dbe426da7e7f1e392e6e4a3
+run_name: carefree-ox-749
+run_uuid: fd8630b02dbe426da7e7f1e392e6e4a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740557569546
+status: 3
+tags: []
+user_id: Jacob

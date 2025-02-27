@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/93d7f565904c40f392c8d0581b7e2293/artifacts
+end_time: 1740670544898
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 93d7f565904c40f392c8d0581b7e2293
+run_name: bemused-snail-610
+run_uuid: 93d7f565904c40f392c8d0581b7e2293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670538804
+status: 3
+tags: []
+user_id: Jacob

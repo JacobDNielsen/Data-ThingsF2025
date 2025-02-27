@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/a0b06de827034b6f9e4466a204de2f82/artifacts
+end_time: 1740667459014
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: a0b06de827034b6f9e4466a204de2f82
+run_name: angry-colt-584
+run_uuid: a0b06de827034b6f9e4466a204de2f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740667458844
+status: 3
+tags: []
+user_id: Jacob

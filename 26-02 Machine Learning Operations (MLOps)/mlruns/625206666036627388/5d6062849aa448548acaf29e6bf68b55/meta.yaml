@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/5d6062849aa448548acaf29e6bf68b55/artifacts
+end_time: 1740670192084
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 5d6062849aa448548acaf29e6bf68b55
+run_name: 'XGBoost_features-3_params-{''n_estimators'': 200, ''max_depth'': 7, ''n_jobs'':
+  -1}_split-0.8-0.2'
+run_uuid: 5d6062849aa448548acaf29e6bf68b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670186203
+status: 3
+tags: []
+user_id: Jacob

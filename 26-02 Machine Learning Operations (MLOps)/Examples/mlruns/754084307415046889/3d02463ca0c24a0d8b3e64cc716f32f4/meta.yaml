@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/Examples/mlruns/754084307415046889/3d02463ca0c24a0d8b3e64cc716f32f4/artifacts
+end_time: 1740575222893
+entry_point_name: ''
+experiment_id: '754084307415046889'
+lifecycle_stage: active
+run_id: 3d02463ca0c24a0d8b3e64cc716f32f4
+run_name: rare-bat-676
+run_uuid: 3d02463ca0c24a0d8b3e64cc716f32f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740575218201
+status: 3
+tags: []
+user_id: Jacob

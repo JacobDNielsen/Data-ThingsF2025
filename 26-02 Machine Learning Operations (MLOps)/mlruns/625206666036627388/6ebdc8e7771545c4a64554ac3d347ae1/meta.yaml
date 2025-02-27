@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/6ebdc8e7771545c4a64554ac3d347ae1/artifacts
+end_time: 1740669616144
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 6ebdc8e7771545c4a64554ac3d347ae1
+run_name: honorable-finch-119
+run_uuid: 6ebdc8e7771545c4a64554ac3d347ae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669605612
+status: 3
+tags: []
+user_id: Jacob

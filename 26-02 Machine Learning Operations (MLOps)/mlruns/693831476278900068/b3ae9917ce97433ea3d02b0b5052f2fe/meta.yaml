@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/b3ae9917ce97433ea3d02b0b5052f2fe/artifacts
+end_time: 1740667559224
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: b3ae9917ce97433ea3d02b0b5052f2fe
+run_name: receptive-shad-148
+run_uuid: b3ae9917ce97433ea3d02b0b5052f2fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740667558891
+status: 3
+tags: []
+user_id: Jacob

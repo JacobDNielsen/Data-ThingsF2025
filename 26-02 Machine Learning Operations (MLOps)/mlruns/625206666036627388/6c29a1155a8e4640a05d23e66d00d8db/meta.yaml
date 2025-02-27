@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/6c29a1155a8e4640a05d23e66d00d8db/artifacts
+end_time: 1740668729500
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 6c29a1155a8e4640a05d23e66d00d8db
+run_name: classy-mole-313
+run_uuid: 6c29a1155a8e4640a05d23e66d00d8db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740668728662
+status: 3
+tags: []
+user_id: Jacob

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/d63a01d01096402f879ee9e2c1e76ddd/artifacts
+end_time: 1740670467246
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: d63a01d01096402f879ee9e2c1e76ddd
+run_name: vaunted-colt-190
+run_uuid: d63a01d01096402f879ee9e2c1e76ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670457986
+status: 3
+tags: []
+user_id: Jacob

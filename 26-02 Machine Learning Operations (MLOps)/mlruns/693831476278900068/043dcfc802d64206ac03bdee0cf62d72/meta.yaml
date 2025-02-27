@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/043dcfc802d64206ac03bdee0cf62d72/artifacts
+end_time: 1740664846705
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: 043dcfc802d64206ac03bdee0cf62d72
+run_name: adaptable-auk-419
+run_uuid: 043dcfc802d64206ac03bdee0cf62d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740664841395
+status: 3
+tags: []
+user_id: Jacob

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/5b3c38ba170647c1bef02e7dde76f560/artifacts
+end_time: 1740669116985
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 5b3c38ba170647c1bef02e7dde76f560
+run_name: selective-koi-281
+run_uuid: 5b3c38ba170647c1bef02e7dde76f560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669116181
+status: 3
+tags: []
+user_id: Jacob

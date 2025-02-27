@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/97d0bdc8b4664a10991f2739d4c0a6b4/artifacts
+end_time: 1740671199546
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 97d0bdc8b4664a10991f2739d4c0a6b4
+run_name: grandiose-skink-74
+run_uuid: 97d0bdc8b4664a10991f2739d4c0a6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740671194035
+status: 3
+tags: []
+user_id: Jacob

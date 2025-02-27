@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/08c96fbc5d004ce483daa5299b166e3a/artifacts
+end_time: 1740667559638
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: 08c96fbc5d004ce483daa5299b166e3a
+run_name: unruly-bug-120
+run_uuid: 08c96fbc5d004ce483daa5299b166e3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740667559242
+status: 3
+tags: []
+user_id: Jacob

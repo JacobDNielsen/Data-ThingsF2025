@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/303e75df2f3544519946e58808630a96/artifacts
+end_time: 1740664280664
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: 303e75df2f3544519946e58808630a96
+run_name: bemused-goose-878
+run_uuid: 303e75df2f3544519946e58808630a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740664274337
+status: 3
+tags: []
+user_id: Jacob

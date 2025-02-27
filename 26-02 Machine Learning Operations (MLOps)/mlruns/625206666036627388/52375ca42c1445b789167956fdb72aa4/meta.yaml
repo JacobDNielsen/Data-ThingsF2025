@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/52375ca42c1445b789167956fdb72aa4/artifacts
+end_time: 1740668728638
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 52375ca42c1445b789167956fdb72aa4
+run_name: mercurial-goose-2
+run_uuid: 52375ca42c1445b789167956fdb72aa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740668727836
+status: 3
+tags: []
+user_id: Jacob

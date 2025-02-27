@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/d9694f5cc15d470295d3ba79f211439d/artifacts
+end_time: 1740669121459
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: d9694f5cc15d470295d3ba79f211439d
+run_name: bemused-deer-196
+run_uuid: d9694f5cc15d470295d3ba79f211439d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669121074
+status: 3
+tags: []
+user_id: Jacob

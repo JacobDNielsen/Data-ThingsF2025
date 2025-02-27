@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/45fd52093a9b43f8a0492b024e8b7425/artifacts
+end_time: 1740670811992
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 45fd52093a9b43f8a0492b024e8b7425
+run_name: able-moth-334
+run_uuid: 45fd52093a9b43f8a0492b024e8b7425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670801589
+status: 3
+tags: []
+user_id: Jacob

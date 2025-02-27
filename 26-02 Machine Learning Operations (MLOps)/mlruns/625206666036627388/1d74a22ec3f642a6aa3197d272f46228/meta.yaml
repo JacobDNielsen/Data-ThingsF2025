@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/1d74a22ec3f642a6aa3197d272f46228/artifacts
+end_time: 1740670569066
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 1d74a22ec3f642a6aa3197d272f46228
+run_name: efficient-quail-632
+run_uuid: 1d74a22ec3f642a6aa3197d272f46228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670563734
+status: 3
+tags: []
+user_id: Jacob

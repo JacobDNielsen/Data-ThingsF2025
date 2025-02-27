@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/db009322f6ea4ecdac4becd519d18c67/artifacts
+end_time: 1740670968005
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: db009322f6ea4ecdac4becd519d18c67
+run_name: efficient-seal-58
+run_uuid: db009322f6ea4ecdac4becd519d18c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740670963058
+status: 3
+tags: []
+user_id: Jacob

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/625206666036627388/312a42ef8d0547c094a7ba0966d1188a/artifacts
+end_time: 1740669626650
+entry_point_name: ''
+experiment_id: '625206666036627388'
+lifecycle_stage: active
+run_id: 312a42ef8d0547c094a7ba0966d1188a
+run_name: fortunate-worm-550
+run_uuid: 312a42ef8d0547c094a7ba0966d1188a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669616169
+status: 3
+tags: []
+user_id: Jacob

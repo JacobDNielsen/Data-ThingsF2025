@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/mlruns/693831476278900068/df545c1f062c4fd2a2ed1eae9b3e632b/artifacts
+end_time: 1740667460966
+entry_point_name: ''
+experiment_id: '693831476278900068'
+lifecycle_stage: active
+run_id: df545c1f062c4fd2a2ed1eae9b3e632b
+run_name: wise-colt-646
+run_uuid: df545c1f062c4fd2a2ed1eae9b3e632b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740667460882
+status: 3
+tags: []
+user_id: Jacob

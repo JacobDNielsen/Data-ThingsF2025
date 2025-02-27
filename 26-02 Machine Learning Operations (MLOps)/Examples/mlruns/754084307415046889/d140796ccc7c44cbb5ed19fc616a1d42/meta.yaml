@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jacob/Documents/RUC%20MSc/Data%26ThingsF2025/26-02%20Machine%20Learning%20Operations%20%28MLOps%29/Examples/mlruns/754084307415046889/d140796ccc7c44cbb5ed19fc616a1d42/artifacts
+end_time: 1740574907336
+entry_point_name: ''
+experiment_id: '754084307415046889'
+lifecycle_stage: active
+run_id: d140796ccc7c44cbb5ed19fc616a1d42
+run_name: powerful-worm-215
+run_uuid: d140796ccc7c44cbb5ed19fc616a1d42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740574902664
+status: 3
+tags: []
+user_id: Jacob
